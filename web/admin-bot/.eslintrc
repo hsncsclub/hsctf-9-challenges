@@ -1,0 +1,19 @@
+{
+	"extends": ["eslint:recommended"],
+	"env": {
+		"es2021": true,
+		"node": true
+	},
+	"rules": {
+		"no-console": "off",
+		"no-duplicate-case": "warn",
+		"no-lonely-if": "warn",
+		"no-unused-vars": "warn",
+		"no-constant-condition": "off",
+		"no-empty": "warn",
+		"no-extra-semi": "warn"
+	},
+	"parserOptions": {
+		"sourceType": "module"
+	}
+}
