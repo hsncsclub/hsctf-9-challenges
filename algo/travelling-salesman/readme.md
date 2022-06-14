@@ -1,0 +1,7 @@
+## travelling-salesman (algo)
+#### Author: ewang
+#### 295 solves / 208 points
+
+Euclidean travelling salesman over single dimension?
+
+Flag: flag{the_fitness_gram_pacer_test_is_a_multistage_aerobic_capacity_test_8182295882010254837}
