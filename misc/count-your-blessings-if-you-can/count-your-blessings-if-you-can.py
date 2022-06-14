@@ -25,7 +25,7 @@ if ans!=calc(r):
 print("Correct! Here's the flag:")
 time.sleep(3)
 print("Wait, I just heard from the challenge writer that you have to answer yet another question. He promises it's the last one.")
-r = random.randint(1000,3000)
+r = random.randint(300,600)
 ans = input("Consider a fair coin, which lands heads and tails each with a 50% probability. What is the fewest number of times I must flip the coin in order be 50% sure that there are at least {} consecutive heads in my flips?\n".format(r))
 if ans!=calc(r):
     print("Incorrect, sorry.")
