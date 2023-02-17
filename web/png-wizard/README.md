@@ -4,4 +4,4 @@ PNGs are clearly the superior image format.
 
 # Solution
 
-Standard command injection attack. See [exploit.py](./exploit.py)
+Standard command injection attack. See [solve.py](./solve.py)
